@@ -1,5 +1,5 @@
 opencv-python
-keras==2.15.0
+keras
 numpy
 pandas
 tensorflow
